@@ -223,3 +223,9 @@ project.lock.json
 
 # Exe files
 *.exe
+
+# molde
+molde.txt
+
+# arquivos python
+*.py
