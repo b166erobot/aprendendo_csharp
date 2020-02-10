@@ -21,7 +21,6 @@ namespace SoloLearn
     {
       Caixa caixa1 = new Caixa(14, 3);
       Caixa caixa2 = new Caixa(5, 7);
-      Console.WriteLine("nada a declarar, só leia o código.");
     }
   }
 }

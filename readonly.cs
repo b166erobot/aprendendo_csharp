@@ -8,6 +8,8 @@ namespace SoloLearn
   {
     private readonly string nome, gênero;
     private readonly int idade;
+
+    // construtor não pode ter um tipo como retorno?
     public Pessoa(string nome, int idade, string gênero)
     {
       this.nome = nome;
